@@ -36,6 +36,7 @@ final List<Map<String, dynamic>> songs = [
     'artist': 'Echo Beats',
     'genre': 'Electronic',
     'icon': Icons.graphic_eq_rounded,
+    'audioPath': 'music/song3.mp3',
   },
   {
     'id': '4',
@@ -43,6 +44,7 @@ final List<Map<String, dynamic>> songs = [
     'artist': 'Blue Horizon',
     'genre': 'Relax',
     'icon': Icons.water_rounded,
+    'audioPath': 'music/song4.mp3',
   },
   {
     'id': '5',
@@ -50,6 +52,7 @@ final List<Map<String, dynamic>> songs = [
     'artist': 'Neon Pulse',
     'genre': 'Electronic',
     'icon': Icons.bolt_rounded,
+    'audioPath': 'music/song5.mp3',
   },
   {
     'id': '6',
@@ -57,6 +60,7 @@ final List<Map<String, dynamic>> songs = [
     'artist': 'Cloud Nine',
     'genre': 'Chill',
     'icon': Icons.cloud_rounded,
+    'audioPath': 'music/song6.mp3',
   },
 ];
 
