@@ -33,7 +33,7 @@ jobs:
         run: flutter pub get
 
       - name: Build Flutter Web
-        run: flutter build web --release --base-href /vibely/
+        run: flutter build web --release --base-href /Vibely/
 
       - name: Upload website artifact
         uses: actions/upload-pages-artifact@v4
